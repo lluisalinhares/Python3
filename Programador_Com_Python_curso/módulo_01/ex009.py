@@ -23,8 +23,3 @@ def somaQuadrados(a,b):
     return somaQ
 
 somaQuadrados(2,3)
-
-
-
-#O comando "in" serve para percorrer tudo que está dentro de "frase",
-# caracter por caracter, verificando e procurando o elemento "u".
