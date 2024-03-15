@@ -1,6 +1,6 @@
 # Python3
 
-<p>➡️ Este repositório tem como propósito guardar e documentar meus estudos em Python, tanto códigos quanto material teórico, bem como, servir de futuras consultas.</p>
+<p>➡️ Este repositório tem como propósito guardar e documentar meus estudos em Python, tanto códigos quanto material teórico, bem como, servir de futuras consultas. Março-de-2024.</p>
 
 <h3>Fontes de estudo: </h3>
 <ul type="circle">
