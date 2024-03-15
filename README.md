@@ -1,6 +1,10 @@
 # Python3
 
-Lista de exercicios da Python Brasil Wiki <a href="https://wiki.python.org.br/ListaDeExercicios" target="_blank">Lista de exercícios Python Brasil Wiki</a>
+<ul type="circle">
+  <li>Lista de <a href="https://wiki.python.org.br/ListaDeExercicios" target="_blank">exercícios </a>da Python Brasil Wiki.</li>
+</ul>
+
+
 
 
 <h2>Dicionários</h2>
