@@ -1,14 +1,16 @@
 # Python3
 
+<h3>Fontes de estudo: </h3>
 <ul type="circle">
   <li>Acompanhando o curso <a href="https://didatica.tech/programador-com-python-curso-completo-para-iniciantes/">programador com Python</a> do Didática Tech.</li>
-  <li>E lista de <a href="https://wiki.python.org.br/ListaDeExercicios" target="_blank">exercícios </a>da @Python  Python Brasil Wiki.</li>
+  <li>E lista de <a href="https://wiki.python.org.br/ListaDeExercicios" target="_blank">exercícios </a>da Python Brasil Wiki.</li>
 </ul>
 
 
 
 
-<h2>Dicionários</h2>
+<h2>Alguns tópicos de estudo em Python: </h2>
+<h3>Dicionários</h3>
 <p>Dicionários são um dos melhores recursos do Python; eles são os blocos de montar de muitos algoritmos eficientes e elegantes.</p>
 <h3>Um dicionário é um mapeamento</h3>
 <p>Um dicionário se parece com uma lista, mas é mais geral. Em uma lista, os índices têm que ser números inteiros; em um dicionário, eles podem ser de (quase) qualquer tipo. <br>
