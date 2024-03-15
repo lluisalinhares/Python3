@@ -1,5 +1,7 @@
 # Python3
 
+<p>Este repositório tem como propósito guardar e documentar meus estudos em Python, tanto códigos quanto material teórico, bem como servir de futuras consultas.</p>
+
 <h3>Fontes de estudo: </h3>
 <ul type="circle">
   <li>Acompanhando o curso <a href="https://didatica.tech/programador-com-python-curso-completo-para-iniciantes/">programador com Python</a> do Didática Tech.</li>
